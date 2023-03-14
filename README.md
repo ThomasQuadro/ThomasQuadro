@@ -16,8 +16,8 @@ Hi there! 👋 I'm Thomas Quadro, a software engineer with a passion for develop
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/ThomasQuadro
-- Email: thomasquadro@gmail.com
+- LinkedIn: https://www.linkedin.com/in/thomas-quadro/
+- Email: thomas.quadro@ynov.com
 
 ## 🌐 Projects
 
