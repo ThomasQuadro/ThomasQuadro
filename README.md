@@ -11,6 +11,7 @@ Hi there! 👋 I'm Thomas Quadro, a software engineer with a passion for develop
 
 ## 📈 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasQuadro&theme=dark)
+<br>
 [![Thomas Quadro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasQuadro&count_private=true&show_icons=true&theme=dark)](https://github.com/ThomasQuadro)
 
 ## 📫 Contact
