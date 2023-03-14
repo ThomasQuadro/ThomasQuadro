@@ -1,16 +1,21 @@
-### Hi there 👋
+Thomas Quadro
+Hi there! 👋 I'm Thomas Quadro, a software engineer with a passion for developing high-quality software and building engaging user experiences. Welcome to my GitHub profile!
 
-<!--
-**ThomasQuadro/ThomasQuadro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Skills
+Languages: JavaScript, Python, Java, C++, HTML/CSS
+Frameworks/Libraries: React, Node.js, Express.js, Flask
+Databases: MongoDB, MySQL, PostgreSQL
+Tools: Git, Docker, AWS, Heroku, Netlify, Firebase
+📈 Stats
+Thomas Quadro's GitHub stats
 
-Here are some ideas to get you started:
+📫 Contact
+LinkedIn: https://www.linkedin.com/in/ThomasQuadro
+Email: thomasquadro@gmail.com
+🌐 Projects
+Here are a few projects that I've worked on recently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project 1
+Project 2
+Project 3
+Thanks for stopping by!
